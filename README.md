@@ -1,3 +1,11 @@
+• Developed a whiteboard-style to-do list application using the Angular framework.
+• Implemented functionality to add new to-do items with persistent storage in local memory, ensuring
+  data retention even after page refresh.
+
+
+
+
+
 # CwhTodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
